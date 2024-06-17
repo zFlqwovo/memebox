@@ -2,6 +2,7 @@ export default {
   items: [
     "meme/?.jpg",
     "meme/rbq.jpg",
+    "meme/为什么要演奏使一颗心免于哀伤！？.png",
     "meme/啊？.jpg",
     "meme/坏蛋.jpg",
     "meme/我什么都做不到.jpg",
