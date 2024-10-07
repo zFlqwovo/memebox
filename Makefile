@@ -3,9 +3,9 @@
 PAGELANG?=zh
 
 TITLE?=MemeBox
-DESC?=Joy for Everyone
-TDESC?=> _Text memes description._
-FOOTER?=** Footer **
+DESC?=群友们的日常
+TDESC?=>一些文字梗
+FOOTER?=<a href="https://github.com/zFlqwovo/memebox">看完了吗？感兴趣的话，可以来 GitHub 投稿哦！</a>
 
 ifeq (${PAGELANG}, zh)
 T_MEMEPIC?=图片梗
