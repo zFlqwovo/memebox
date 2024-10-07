@@ -24,9 +24,9 @@ cat > "text/index.html" <<EOF
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Joy for Everyone">
+    <meta name="description" content="群友们的日常">
     <link rel="icon" href="/static/favicon.ico">
-    <title>MemeBox | Joy for Everyone</title>
+    <title>MemeBox | 群友们的日常</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1.5.0/css/pico.min.css">
     <link rel="stylesheet" href="/static/style.css">
     <style>
@@ -42,7 +42,7 @@ cat > "text/index.html" <<EOF
         <h5 id="description"></h5>
         <article id="view">
             <github-md>
-> _Text memes description._
+>一些文字梗.
 
 EOF
 
@@ -59,7 +59,7 @@ cat >> "text/index.html" <<EOF
         </article>
 
         <footer id="footer">
-            <p>** Footer **</p>
+            <p><a href="https://github.com/zFlqwovo/memebox">看完了吗？感兴趣的话，可以来 GitHub 投稿哦！</a></p>
         </footer>
     </main>
 </body>
