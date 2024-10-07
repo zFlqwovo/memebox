@@ -13,6 +13,7 @@ export default {
     "meme/结婚2.jpg",
     "meme/群主女装gkd.jpg",
     "meme/膏巢了.png",
+    "meme/草.jpg",
     "meme/蠢萝莉!.jpg",
     "meme/🥵.jpg",
   ]
