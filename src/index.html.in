@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="@DESC@">
+    <meta name="description" content="群友们的日常">
     <link rel="icon" href="/static/favicon.ico">
-    <title>@TITLE@ | @DESC@</title>
+    <title>MemeBox</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1.5.0/css/pico.min.css">
     <link rel="stylesheet" href="/static/style.css">
 </head>
@@ -55,7 +55,7 @@
         </div>
 
         <footer id="footer">
-            <p>@FOOTER@</p>
+            <p><a href="https://github.com/zFlqwovo/memebox">看完了吗？感兴趣的话，可以来 GitHub 投稿哦！</a></p>
         </footer>
     </main>
 
