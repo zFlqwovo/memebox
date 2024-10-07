@@ -10,7 +10,6 @@ on:
     paths:
       - 'meme/**'
       - '.github/workflows/generate-config-file.yml'
-  workflow_dispatch:
 
 jobs:
   generate-config-file:
