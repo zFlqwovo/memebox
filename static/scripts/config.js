@@ -1,5 +1,6 @@
 export default {
   items: [
+    "meme/🥵.jpg",
     "meme/?.jpg",
     "meme/rbq.jpg",
     "meme/为什么要演奏使一颗心免于哀伤！？.png",
@@ -15,6 +16,5 @@ export default {
     "meme/膏巢了.png",
     "meme/草.jpg",
     "meme/蠢萝莉!.jpg",
-    "meme/🥵.jpg",
   ]
 }
