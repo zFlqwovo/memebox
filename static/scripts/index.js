@@ -135,7 +135,7 @@ function view() {
 async function initgallery() {
     document.getElementById(
         'description'
-    ).innerHTML = `群友们的日常, 目前已有 ${items.length} 张。`
+    ).innerHTML = `一些无聊时收集的表情, 目前已有 ${items.length} 张。`
     document.getElementById('refresh-btn').onclick = () => {
         location.hash = `#${items[random(0, items.length - 1)].match(memeRegex)[2]}`
     }
