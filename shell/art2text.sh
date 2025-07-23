@@ -19,9 +19,9 @@ do
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="群友们的日常">
+    <meta name="description" content="一些无聊时收集的表情">
     <link rel="icon" href="/static/favicon.ico">
-    <title>MemeBox | 群友们的日常</title>
+    <title>MemeBox | 一些无聊时收集的表情</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1.5.0/css/pico.min.css">
     <link rel="stylesheet" href="/static/style.css">
     <style>
