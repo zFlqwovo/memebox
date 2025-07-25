@@ -59,7 +59,7 @@ cat >> "text/index.html" <<EOF
         </article>
 
         <footer id="footer">
-            <p><a href="https://github.com/zFlqwovo/memebox">看完了吗？感兴趣的话，可以来 GitHub 投稿哦！</a></p>
+            <p><a href="https://github.com/NekoCraftNetwork/memebox">看完了吗？感兴趣的话，可以来 GitHub 投稿哦！</a></p>
         </footer>
     </main>
 </body>
