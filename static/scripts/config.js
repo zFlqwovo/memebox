@@ -8,6 +8,7 @@ export default {
     "meme/对不起 我菜死了.jpg",
     "meme/少女的脸红胜过一切言语.jpg",
     "meme/忧愁它缠绕着我.jpg",
+    "meme/我不懂但我大受震撼.jpg",
     "meme/我以后再也不会笑了.png",
     "meme/我会一直注视着你.jpg",
     "meme/我会一直视奸你....一直......jpg",
