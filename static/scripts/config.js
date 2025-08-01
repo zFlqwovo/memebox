@@ -1,6 +1,11 @@
 export default {
   items: [
     "meme/DeepSeek小姐的内心OS.jpg",
+    "meme/Edge#2.png",
+    "meme/Edge#3.png",
+    "meme/Edge#4.png",
+    "meme/Edge#5.png",
+    "meme/Edge.png",
     "meme/为什么要演奏使一颗心免于哀伤！？.png",
     "meme/你是笨蛋.jpg",
     "meme/你觉得自己很对是吗.jpg",
