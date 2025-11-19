@@ -1,5 +1,6 @@
 export default {
   items: [
+    "meme/Cloudflare.jpg",
     "meme/DeepSeek小姐的内心OS.jpg",
     "meme/Edge#2.png",
     "meme/Edge#3.png",
