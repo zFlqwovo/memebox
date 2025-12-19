@@ -6,7 +6,7 @@ on:
 jobs:
   check-similarity-img:
     name: Check Similarity Images
-    runs-on: ubuntu-latest
+    runs-on: blacksmith-2vcpu-ubuntu-2404-arm
     permissions:
       contents: write
     steps:
